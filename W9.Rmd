@@ -1,0 +1,21 @@
+---
+title: "Psychiatric disorders and treatment in women"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 2
+---
+<center>
+![](images/meditation.jpg){width=350px}
+
+</center>
+
+# ILOs for this week
+
+- Sex-disaggregated ratios
+- Why sex differences? Artifacts + biopsychosocial factors
+- Assessment and treatment of psychiatric disorders in women
+

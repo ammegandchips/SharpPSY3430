@@ -1,0 +1,41 @@
+---
+title: "Fundamentals of female physiology"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 2
+---
+<center>
+![](images/uterus_position.jpg)
+</center>
+
+# ILOs for this week
+
+- Describe the main biological differences between males and females, including in terms of genetics, anatomy hormones, brain structure/function, and fetal development.
+- Describe the physiology of the menstrual cycle.
+- Describe the physiological changes that occur at key reproductive life stages: puberty, pregnancy, breastfeeding, and menopause.
+
+# Sex-linked biological differences
+
+## Genetics
+
+## Anatomy
+
+## Brain
+
+## Endocrinology
+
+## Fetal development
+
+# The menstrual cycle
+
+# Physiological changes at reproductive stages
+
+## Puberty
+
+## Pregnancy and breastfeeding
+
+## Menopause
