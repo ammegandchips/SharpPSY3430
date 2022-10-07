@@ -3,7 +3,7 @@
     "path": "~/OneDrive - University of Exeter/PSY3430/SharpPSY3430/W1.Rmd",
     "project_path": "W1.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1112266031",
     "contents": "",
     "dirty": false,
     "created": 1665164266415.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,16",
-        "scrollLine": "0",
+        "cursorPosition": "56,1",
+        "scrollLine": "52",
         "rmdVisualMode": "false",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "918:1123",
@@ -21,11 +21,11 @@
         "docOutlineVisible": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1665164511,
+    "lastKnownWriteTime": 1665166102,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1665164511185,
+    "last_content_update": 1665166102264,
     "read_only": false,
     "read_only_alternatives": []
 }
