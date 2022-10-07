@@ -13,7 +13,7 @@
 
 <title>What do we mean by ‘Women’s Mental Health’?</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -400,33 +404,64 @@ of mental health and wellbeing.</li>
 <div id="introduction-to-this-module" class="section level1">
 <h1>Introduction to this module</h1>
 </div>
-<div id="what-do-we-mean-by-woman" class="section level1">
-<h1>What do we mean by “woman”?</h1>
+<div id="definitions-of-woman" class="section level1">
+<h1>Definitions of ‘woman’</h1>
+<p><span style="color:DarkGoldenRod"><strong>Reading:</strong> Hutner et
+al. (2022) Introduction. Textbook of Women’s Reproductive Mental Health.
+Pages XXV-XXX</span></p>
+<ul>
+<li>Why are we beginning a module about women’s mental health with a
+discussion about sex and gender?</li>
+<li>What language will we use throughout this module?</li>
+<li>How can we discuss difficult or contentious issues openly, while
+accepting and respecting differences of opinion?</li>
+<li>How can we explore and challenge the views of others in an
+intelligent, kind and sensitive way?</li>
+</ul>
 </div>
-<div id="why-study-womens-mental-health" class="section level1">
-<h1>Why study women’s mental health?</h1>
+<div id="definitions-of-mental-health-and-wellbeing"
+class="section level1">
+<h1>Definitions of mental health and wellbeing</h1>
+<p>The World Health Organisation (WHO) defines mental health as
+follows:</p>
+<div class="warning"
+style="padding:0.1em; background-color:#E9D8FD; color:#69337A">
+<p>This sentence has five words. Here are five more words. Five-word
+sentences are fine. But several together bocome monotonous. Listen to
+what is happening. The writing is getting boring. The sound of it
+drones. It’s like a stuck record. The ear demands some variety.<br><br>
+Now listen. I vary the sentence length, and I create music. Music. The
+writing sings. It has a pleasent rhythm, a lilt, a harmony. I use short
+sentences. And I use sentences of medium length. And sometimes when I am
+certain the reader is rested, I will engage him with a sentence of
+considerable length, a sentence that burns with energy and builds with
+all the impetus of a crescendo, the roll of the drums, the crash of the
+cymbals – sounds that say listen to this, it is important.</p>
+</div>
+<pre><code>Mental health is an integral and essential component of health. The WHO constitution states: &quot;Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.&quot; An important implication of this definition is that mental health is more than just the absence of mental disorders or disabilities.
+
+Mental health is a state of well-being in which an individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and is able to make a contribution to his or her community.
+
+Mental health is fundamental to our collective and individual ability as humans to think, emote, interact with each other, earn a living and enjoy life. On this basis, the promotion, protection and restoration of mental health can be regarded as a vital concern of individuals, communities and societies throughout the world.</code></pre>
+</div>
+<div id="why-and-how-should-we-study-womens-mental-health"
+class="section level1">
+<h1>Why and how should we study women’s mental health?</h1>
+<p><span style="color:DarkGoldenRod"><strong>Reading:</strong> Glover
+(2014) Foreward, <em>in</em> Barnes (Ed.) Women’s Reproductive Mental
+Health across the Lifespan <strong>Reading:</strong> Department for
+Health and Social Care (2022), Ministerial Foreward, Women’s Health
+Strategy</span></p>
+<ul>
+<li>Why is women’s mental health an important topic?</li>
+<li>Why should women’s mental health research and care take a
+biopsychosocial approach?</li>
+<li>Why should women’s mental health research and care take a lifecourse
+approach?</li>
+</ul>
 </div>
 <div id="the-history-of-womens-mental-health" class="section level1">
 <h1>The history of women’s mental health</h1>
-</div>
-<div id="key-concepts-and-models" class="section level1">
-<h1>Key concepts and models</h1>
-<div id="the-lifecourse-approach" class="section level2">
-<h2>The lifecourse approach</h2>
-</div>
-<div id="the-biopsychosocial-model" class="section level2">
-<h2>The biopsychosocial model</h2>
-<div id="feminine-psychology" class="section level3">
-<h3>Feminine psychology</h3>
-</div>
-</div>
-<div id="medical-vs-non-medical-models" class="section level2">
-<h2>Medical vs non-medical models</h2>
-</div>
-<div id="definitions-of-mental-health-and-wellbeing"
-class="section level2">
-<h2>Definitions of mental health and wellbeing</h2>
-</div>
 </div>
 
 
