@@ -22,8 +22,6 @@ This third year seminar module is led by [Dr Gemma Sharp](https://gemmasharp.uk)
 
 I hope you enjoy the next few weeks learning about women's mental health!
 
-SEE WEEK 10 FOR A QUIZ EXAMPLE
-
 ```{r echo=FALSE, results = "asis" }
 library(knitr)
 ToC <- data.frame(Week = c(1:11),

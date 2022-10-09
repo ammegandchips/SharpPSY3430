@@ -13,6 +13,8 @@ output:
 
 # ILOs for this week
 
+At the end of this week, students should be able to...
+
 -   Understand how this interactive module will run, including what is expected of you as an effective, supportive, engaged learner.
 -   Consider the complexities of definitions of "woman", sex and gender, and discuss the language we will use throughout the module.
 -   Explain why women's mental health is an important topic.

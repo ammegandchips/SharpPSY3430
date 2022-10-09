@@ -29,6 +29,8 @@ navbar:
       href: W10.html
     - text: "Week 11"
       href: W11.html
+    - text: "Revision"
+      href: revision.html
 output_dir: "docs"
 output:
   html_document:

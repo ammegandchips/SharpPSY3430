@@ -11,7 +11,7 @@
 
 
 
-<title>PSY3430: Women’s Mental Health</title>
+<title>Revision</title>
 
 <script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -226,6 +229,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -233,6 +299,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -303,122 +379,25 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">PSY3430: Women’s Mental Health</h1>
+<h1 class="title toc-ignore">Revision</h1>
 
 </div>
 
 
-<style type="text/css">
-.title {
-  display: none;
-}
-
-#getting-started img {
-  margin-right: 10px;
-}
-
-</style>
-<div class="row" style="padding-top: 30px;">
-<div id="welcome-to-psy3430" class="section level1 col-sm-6">
-<h1><strong>Welcome to PSY3430!</strong></h1>
-<p>This third year seminar module is led by <a
-href="https://gemmasharp.uk">Dr Gemma Sharp</a>. All the learning
-materials are available on this website, grouped by week. For
-information about how the module is taught and assessed, see the module
-<a href="Handbook.html">handbook tab</a>.</p>
-<p>I hope you enjoy the next few weeks learning about women’s mental
-health!</p>
-<table>
-<colgroup>
-<col width="6%" />
-<col width="10%" />
-<col width="32%" />
-<col width="50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="right">Week</th>
-<th align="left">Date</th>
-<th align="left">Theme</th>
-<th align="left">Topic</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="right">1</td>
-<td align="left">26th Feb</td>
-<td align="left">Understanding women</td>
-<td align="left">What do we mean by women’s mental health?</td>
-</tr>
-<tr class="even">
-<td align="right">2</td>
-<td align="left">26th Feb</td>
-<td align="left">Understanding women</td>
-<td align="left">Fundamentals of female physiology</td>
-</tr>
-<tr class="odd">
-<td align="right">3</td>
-<td align="left">26th Feb</td>
-<td align="left">Understanding women</td>
-<td align="left">Sex/gender differences in psychology</td>
-</tr>
-<tr class="even">
-<td align="right">4</td>
-<td align="left">26th Feb</td>
-<td align="left">Understanding women</td>
-<td align="left">Sociocultural impacts on women’s health</td>
-</tr>
-<tr class="odd">
-<td align="right">5</td>
-<td align="left">26th Feb</td>
-<td align="left">Reproductive mental health</td>
-<td align="left">Menstrual and mental health</td>
-</tr>
-<tr class="even">
-<td align="right">6</td>
-<td align="left">26th Feb</td>
-<td align="left">Reproductive mental health</td>
-<td align="left">Perinatal mental health</td>
-</tr>
-<tr class="odd">
-<td align="right">7</td>
-<td align="left">26th Feb</td>
-<td align="left">Reproductive mental health</td>
-<td align="left">Menopause and mental health</td>
-</tr>
-<tr class="even">
-<td align="right">8</td>
-<td align="left">26th Feb</td>
-<td align="left">Reproductive mental health</td>
-<td align="left">Fertility and mental health</td>
-</tr>
-<tr class="odd">
-<td align="right">9</td>
-<td align="left">26th Feb</td>
-<td align="left">Psychiatric disorders</td>
-<td align="left">Psychiatric disorders in women</td>
-</tr>
-<tr class="even">
-<td align="right">10</td>
-<td align="left">26th Feb</td>
-<td align="left">Psychiatric disorders</td>
-<td align="left">Deep dive: depression and anxiety</td>
-</tr>
-<tr class="odd">
-<td align="right">11</td>
-<td align="left">26th Feb</td>
-<td align="left">Psychiatric disorders</td>
-<td align="left">Deep dive: eating disorders</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="col-sm-6">
-<p><img src="images/women_stairs.jpg" /> </a></p>
+<center>
+<p><img src="images/women_stairs.jpg" width="350" /></p>
+</center>
+<div id="revision-quiz" class="section level1">
+<h1>Revision quiz</h1>
+<p>Embedded quiz… You have to open this in a browser for it to work:</p>
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=d10qkZj77k6vMhM02PBKU9HPWeR6L99CuDGUvWSAikpUQ1dUV1E5NDBOOVJBNFAwSU45RE9QQlcxTy4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen>
+</iframe>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -451,6 +430,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
