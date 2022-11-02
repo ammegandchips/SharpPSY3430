@@ -8,6 +8,24 @@ output:
     number_sections: false
     toc_depth: 2
 ---
+
+<style type="text/css">
+
+.button {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+</style>
+
+<a href="https://www.dropbox.com/s/1ikbolei38dmcln/W2.docx?dl=1" class="button">Download editable version</a>
+
 <center>
 ![](images/uterus_position.jpg)
 </center>
@@ -48,7 +66,7 @@ Fetal development, genetics, genital anatomy
 
 ## The female reproductive system
 
-```{r, echo=FALSE}
+```{r w2-chunk1, echo=FALSE}
 ##remotes::install_github("mccarthy-m-g/embedr")
 embedr::embed_audio(
   src = "https://www.dropbox.com/s/nd0y67l01z2g7m0/podcast_28days_day1_power.mp3?raw=1"

@@ -8,6 +8,24 @@ output:
     number_sections: false
     toc_depth: 2
 ---
+
+<style type="text/css">
+
+.button {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+</style>
+
+<a href="https://www.dropbox.com/s/cy948ui5c7mnwo5/W11.docx?dl=1" class="button">Download editable version</a>
+
 <center>
 ![](images/eating_disorder.jpg){width=350px}
 
@@ -24,5 +42,9 @@ output:
 - Social policy and treatments (respecting autonomy of client)
 
 Thin HBO documentary: https://www.youtube.com/watch?v=AL3FeQU4HjU&t=221s
+
+BBC eating disorder during pregnancy 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xND3QOXW-w0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
