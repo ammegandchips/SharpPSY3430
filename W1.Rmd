@@ -72,9 +72,13 @@ Please also take a look at the Handbook tab above for further information.
 
 [**Reading:** Hutner et al. (2022) Introduction. Textbook of Women's Reproductive Mental Health. Pages XXV-XXX]{style="color:#cd5b45"}
 
+The misuses of “biological sex” Karkazis Lancet 2019 (in dropbox folder)
+
 [**Video:**]{style="color:#cd5b45"}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/stUl_OapUso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kT0HJkr1jj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Guided discussion questions:
 
@@ -112,6 +116,9 @@ Mental health is fundamental to our collective and individual ability as humans 
 [**Reading:** Department for Health and Social Care (2022), Ministerial Foreward, Women's Health Strategy]{style="color:#cd5b45"}
 
 Call for sex-stratified research in mental health: https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(16)30209-7/fulltext
+
+Call for using a biopsychosocial approach:
+https://www.theguardian.com/society/2021/may/09/the-chemical-question-does-focusing-on-hormones-undermine-mental-healthcare 
 
 ### Guided discussion questions:
 
