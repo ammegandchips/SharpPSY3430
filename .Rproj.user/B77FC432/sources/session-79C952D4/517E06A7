@@ -1,24 +1,24 @@
 {
-    "id": "E84B98A3",
-    "path": "~/OneDrive - University of Exeter/PSY3430/SharpPSY3430/W7.Rmd",
-    "project_path": "W7.Rmd",
+    "id": "517E06A7",
+    "path": "~/Library/CloudStorage/OneDrive-UniversityofExeter/PSY3430/SharpPSY3430/Handbook.Rmd",
+    "project_path": "Handbook.Rmd",
     "type": "r_markdown",
-    "hash": "1435017869",
+    "hash": "2699971330",
     "contents": "",
     "dirty": false,
-    "created": 1664218440715.0,
+    "created": 1670846818248.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1664218386,
+    "lastKnownWriteTime": 1670095024,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1664218386,
+    "last_content_update": 1670095024,
     "read_only": false,
     "read_only_alternatives": []
 }
