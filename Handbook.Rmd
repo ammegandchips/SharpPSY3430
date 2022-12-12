@@ -29,9 +29,13 @@ output:
 
 <center>![](images/uterus_etsy.jpg){height="400px"}</center>
 
+---
+
 # Introduction
 
 This is your module handbook with all the information you need about this module. 
+
+---
 
 # Practical stuff
 
@@ -51,9 +55,11 @@ Each week, the 3 hours timetabled on a Thursday will consist of a mixture of lec
 
 Each week there will be required and optional materials (reading, videos, podcasts, and activities) for you to engage with for each topic.
 
-**Required pre-session material** - I expect the required reading/viewing/activities to be done prior to the Thursday session, as aspects of the material will be discussed during class. You should spend between 1.5 and 2 hours on this material before each session. Bring materials and any notes along with you to the Thursday session.
+**Required pre-session material** - I expect the required reading/viewing/activities to be done prior to the Thursday session, as aspects of the material will be discussed during class. You should spend between 1.5 and 2 hours on this material before each session. Bring materials and any notes along with you to the Thursday session. [Required pre-session material is highlighted on the webpages in pink]{style="color:#cd5b45"}
 
-**Optional material** - The optional reading is a chance for you to not only consolidate the information from the Thursday session, but to explore areas of the week's topic that may not necessarily be covered in the session. I encourage you to go beyond the reading lists and read on aspects of the topic you are interested in. If there are things you would like to know more about and they are not mentioned in the lecture or covered by the optional reading please let me know! Feel free to share with your coursemates too, via the [padlet](https://padlet.com/gcsharp/g6zvweblf6czrju1).
+**Optional material** - The optional/suggested reading is a chance for you to not only consolidate the information from the Thursday session, but to explore areas of the week's topic that may not necessarily be covered in the session. I encourage you to go beyond the reading lists and read on aspects of the topic you are interested in. [Optional pre-session material is highlighted on the webpages in blue]{style="color:#45B7CD"}
+
+If there are things you would like to know more about and they are not mentioned in the lecture or covered by the optional reading please let me know! Feel free to share with your coursemates too, via the [padlet](https://padlet.com/gcsharp/g6zvweblf6czrju1).
 
 ## Schedule
 
@@ -62,12 +68,14 @@ library(knitr)
 ToC <- data.frame(Week = c(1:11),
                   Date = rep(c("19th Jan","26th Jan","2nd Feb","9th Feb","16th Feb","23rd Feb","2nd Mar","9th Mar","16th Mar","23rd Mar","30th Mar")),
                   Theme = c(rep("Understanding women",4),rep("Reproductive mental health",4),rep("Psychiatric disorders",3)),
-                  Topic = c("What do we mean by women's mental health?","Fundamentals of female physiology","Sex/gender differences in psychology","Sociocultural impacts on women's health", "Menstrual and mental health", "Perinatal mental health", "Menopause and mental health", "Fertility and mental health", "Psychiatric disorders in women", "Deep dive: depression and anxiety", "Deep dive: eating disorders"),
+                  Topic = c("What do we mean by women's mental health?","Fundamentals of female physiology","Sex/gender differences in psychology","Sociocultural impacts on women's health", "Menstrual and mental health", "Perinatal mental health", "Menopause and mental health", "Fertility and mental health", "Psychiatric disorders in women", "Research sandpit: depression & anxiety", "Deep dive: eating disorders"),
                   Room = rep("Seminar Room A/LSI",11))
 
 ToC$Room[ToC$Week==8] <- "Lecture Theatre C/Streatham Court"
 kable(ToC)
 ```
+
+---
 
 # Assessments
 
@@ -90,6 +98,8 @@ The essay is due Wednesday 8th March.
 The exam will take the form of a timed essay and will comprise XX% of the marks for the module. 
 
 More information about the exam format will be given during the course and will be posted on ELE.
+
+---
 
 # What you'll learn and how
 
@@ -166,6 +176,8 @@ In all cases, you will find it useful to make notes and to contribute to the dis
 - **Group presentation:** you will work in small groups to research a topic, synthesise an argument or narrative and then present to the rest of the class. This is excellent preparation for essay writing. The presentation itself might take the form of a lecture, poster or infographic.
 - **Quiz:** quizzes can be useful for checking your understanding of basic (fact-based) information. It can sometimes be a confidence boost for the exam to know that you are retaining and can recall this kind of information.
 
+---
+
 # Expectations for class behaviour
 
 ### Be nice
@@ -181,6 +193,8 @@ During the sessions, please try to contribute to the discussions. I know that 'g
 ### Turn up
 
 We do not require attendance, although we highly encourage it. This is your investment and you will get as much out of it as you put into it. Although you'll get some written material, these are just intended to support your learning, and the main content of what is taught will be in the Thursday sessions. The readings and powerpoints will not be enough to do well in the assessments for this module.
+
+---
 
 # Study skills advice
 
@@ -219,6 +233,8 @@ And always, be patient with your group members who are different from you. Remem
 
 Likewise, if you find yourself struggling on one of the tasks, because it’s doesn’t meet your strength – hang in there. We all will have this, and your moment too will come.
 
+---
+
 # Wellbeing
 
 Sometimes in this class we will discuss trauma, mental health problems, and other topics that may be sensitive to some of you. Sometimes it will be clear that we will be discussing this ahead of time and you can plan/prepare, but other times it will simply be part of the course content, or may rise naturally as part of discussions.
@@ -238,4 +254,4 @@ Also, we would encourage you, where and when you are comfortable doing so – to
 - https://studentspace.org.uk/ – led by Student Minds, the UK’s student mental health charity, Student Space is a national resource which is designed to make it easier for you to find the support you need during COVID-19, with a wealth of resources available
 - Headspace- meditation, anxiety and stress - https://www.headspace.com/
 
-
+---
