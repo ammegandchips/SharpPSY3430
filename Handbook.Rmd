@@ -81,7 +81,7 @@ kable(ToC)
 
 ## Coursework
 
-Your coursework takes the form of an essay and will comprise XX% of the marks for the module.
+Your coursework takes the form of an essay and will comprise 40% of the marks for the module.
 
 The essay question is:
 
@@ -93,9 +93,19 @@ More information about the essay question and marking criteria will be given in 
 
 The essay is due Wednesday 8th March.
 
+### Essay formatting
+
+Please ensure your essay is formatted correctly. 
+
+  - Font size: 12-point in Times New Roman, Arial or Calibri
+  - Margins: 30mm on the left-hand side, 20mm on the right-hand side and top/bottom margins
+  - Typing: 1.5 line spacing should be used in typescript except for indented quotations or footnotes, for which single spacing may be used
+  - Figures and tables: should take up half-page or full-page only. Text should not wrap (i.e. should be in line with top/bottom of figure/table).
+  - Numbering of pages: All pages should be numbered consecutively 
+
 ## Exam
 
-The exam will take the form of a timed essay and will comprise XX% of the marks for the module. 
+The exam will take the form of a timed essay and will comprise 60% of the marks for the module. 
 
 More information about the exam format will be given during the course and will be posted on ELE.
 
