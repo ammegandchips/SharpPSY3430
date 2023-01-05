@@ -1,5 +1,5 @@
 ---
-title: "Course Handbook"
+title: "PSY3430 - Women's Mental Health: Module Handbook"
 output:
   html_document:
     toc: true
@@ -9,25 +9,7 @@ output:
     toc_depth: 2
 ---
 
-<style type="text/css">
-
-.button {
-  font: bold 11px Arial;
-  text-decoration: none;
-  background-color: #EEEEEE;
-  color: #333333;
-  padding: 2px 6px 2px 6px;
-  border-top: 1px solid #CCCCCC;
-  border-right: 1px solid #333333;
-  border-bottom: 1px solid #333333;
-  border-left: 1px solid #CCCCCC;
-}
-</style>
-
-<a href="https://www.dropbox.com/s/n8pc2sby0fs6acs/Handbook.docx?dl=1" class="button">Download editable version</a>
-
-
-<center>![](images/uterus_etsy.jpg){height="400px"}</center>
+<center>![](images/uterus_etsy.jpg){height="500px"}</center>
 
 ---
 
@@ -226,7 +208,11 @@ We do not require attendance, although we highly encourage it. This is your inve
 
 This video explains why it's important to read scientific papers, how they're structured, and one approach to reading papers that you might find useful:
 
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H3aaXOrlAyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
 
 Reading learning content with a goal is always more effective. Make notes as you're reading, and try to get a sense of the main points/arguments of the article. What is this article trying to say? If you had to explain the main point of the article in three sentences to a non-psychology family member, what would you say?
 
