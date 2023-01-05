@@ -1,26 +1,26 @@
 {
-    "id": "355E4E6F",
-    "path": "~/Library/CloudStorage/OneDrive-UniversityofExeter/PSY3430/SharpPSY3430/W2.Rmd",
-    "project_path": "W2.Rmd",
+    "id": "CB9141E1",
+    "path": "~/Library/CloudStorage/OneDrive-UniversityofExeter/PSY3430/SharpPSY3430_fullsite/W1.Rmd",
+    "project_path": null,
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1672759135392.0,
+    "created": 1672933936602.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 3,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "69,2",
-        "scrollLine": "56"
+        "cursorPosition": "94,0",
+        "scrollLine": "88"
     },
     "folds": "",
-    "lastKnownWriteTime": 1667393570,
+    "lastKnownWriteTime": 1670872427,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1667393570,
+    "last_content_update": 1670872427,
     "read_only": false,
     "read_only_alternatives": []
 }
