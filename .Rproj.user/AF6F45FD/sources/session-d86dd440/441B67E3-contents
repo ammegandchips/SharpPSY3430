@@ -1,0 +1,119 @@
+---
+title: "Fundamentals of female physiology"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 2
+---
+
+<style type="text/css">
+
+.button {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+</style>
+
+<a href="https://www.dropbox.com/s/1ikbolei38dmcln/W2.docx?dl=1" class="button">Download editable version</a>
+
+<center>
+![](images/uterus_position.jpg)
+</center>
+
+# ILOs for this week
+
+At the end of this week, students should be able to...
+
+- Compare females and males in terms of genetics, anatomy, hormones, brain structure/function, and fetal development.
+- Describe the physiology of the menstrual cycle.
+- Explain the physiological changes that occur at key reproductive life stages: puberty, pregnancy, breastfeeding, and menopause.
+- Discuss hormonal effects on the brain
+
+# What you need to do this week
+
+- **Before** coming to the seminar:
+    + Please make sure you have read/watched/listened to all the readings, videos and audio recordings below. You will find it useful to make notes.
+    + Spend around one hour researching and making notes on the biological changes that take place around *puberty*, *pregnancy*, *breastfeeding*, and *menopause*. You will use the notes during the seminar in the group task.
+    
+- **During** the seminar, please:
+    + Make the most out of your time by contributing to the discussions and listening to others.
+    + Three to four people will be responsible for making notes each week. Please check the [rota](https://www.dropbox.com/s/w92ab1ntub6mytx/PSYM3430%20Note%20taking%20rota.docx?dl=0) to find out if it's your week.
+    + This week there is a group task, which will be explained during the seminar. We will spend around 1 hour 15 mins on this.
+    + We will also spend around 45 minutes on a whole-class discussion about the readings.
+    
+- **After** the seminar:
+    + If you are a note-taker, please check the notes and make any additions or tidy them up if necessary. 
+    + All class members should then check the notes and make any additions.
+    + Note-takers should also add *revision questions* to the *revision quiz*.  
+
+# Sexual dimorphism
+
+## Sexual differentiation
+
+Fetal development, genetics, genital anatomy
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ciQjo7bj-uQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## The female reproductive system
+
+```{r w2-chunk1, echo=FALSE}
+##remotes::install_github("mccarthy-m-g/embedr")
+embedr::embed_audio(
+  src = "https://www.dropbox.com/s/nd0y67l01z2g7m0/podcast_28days_day1_power.mp3?raw=1"
+  )
+```
+
+## Brain
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z5c7ubF0u-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://academic.oup.com/cercor/article/28/8/2959/4996558
+
+## Endocrinology
+
+focus on sex differences and intro to the main repro hormones
+
+## Sex differences in medicine
+
+Articles about sex differences in medicine:
+
+https://theconversation.com/au/topics/gender-medicine-39178
+
+# The menstrual cycle
+
+# Hormones and mental health
+
+Albert + Newhouse 2019 estrogen effects on Dorsal and Ventral systems. Depression - diminished dorsal systems
+
+# Biological changes at reproductive stages
+
+## Puberty
+
+https://teachmephysiology.com/reproductive-system/development-maturation/puberty/
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6oKsikHollM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Pregnancy and breastfeeding
+
+https://teachmephysiology.com/reproductive-system/pregnancy/maternal-adaptations-pregnancy/
+
+https://teachmephysiology.com/reproductive-system/pregnancy/lactation/
+
+## Menopause
+
+https://teachmephysiology.com/reproductive-system/development-maturation/menopause/
+
+### Guided discussion questions:
+
+- How could physiological states, symptoms and changes affect mental health?
+- To what extent can biological differences between the sexes account for differences in mental health?
